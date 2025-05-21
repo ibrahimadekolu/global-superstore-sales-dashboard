@@ -42,7 +42,7 @@ This Power BI project explores **retail sales performance** across over **30 cou
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](https://your-dashboard-image-link.com)
+![Dashboard Preview](global sales dashboard.jpg)
 <sub><i>(Replace with actual screenshot of your Power BI dashboard)</i></sub>
 
 ---
